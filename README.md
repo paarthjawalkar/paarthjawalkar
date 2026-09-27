@@ -1,16 +1,13 @@
-## Hi there 👋
+# Paarth Jawalkar 👋
 
-<!--
-**paarthjawalkar/paarthjawalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building PANOPTES, a browser-based Earth explorer. From ambitious idea to working prototype, with real-device testing and fixes along the way.
 
-Here are some ideas to get you started:
+## PANOPTES
+Planetary Advanced Network for Orbital, Positional & Terrestrial Exploration Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Explore terrain and 3D city buildings, zoom around the globe, and search for famous places. Mobile performance and visual edge cases are still being worked on; some features remain previews, and live flights are paused.
+
+- [Try PANOPTES](https://panoptes-earth.pages.dev/)
+- [Project and version history](https://github.com/paarthjawalkar/PANOPTES)
+
+Doing it better.
